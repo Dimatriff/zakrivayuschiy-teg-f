@@ -1,1 +1,1 @@
-Проект "Закрывающий тэг" - https://github.com/Dimatriff/zakrivayuschiy-teg-f.git
+Проект "Закрывающий тег" - https://github.com/Dimatriff/zakrivayuschiy-teg-f.git
