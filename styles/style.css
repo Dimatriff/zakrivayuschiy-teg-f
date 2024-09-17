@@ -176,7 +176,7 @@
 }
 
 .card:nth-of-type(6) .card__image {
-  filter: grayscale(100%);
+  filter: hue-rotate(0.5turn);
 }
 
 .card:nth-of-type(7) .card__image {
@@ -290,12 +290,12 @@
   position: relative;
 }
 
-.footer {
+.memory {
   background: var(--background-color, #fff);
   max-width: calc(100% * 310 / 375);
 }
 
-.footer__button {
+.memory__button {
   gap: 8px;
   padding: 15px 20px;
   display: flex;
@@ -304,7 +304,7 @@
   justify-content: center;
 }
 
-.footer__icon {
+.memory__icon {
   width: clamp(1.3125rem, 2.2548rem + -2.1538vw, 1.75rem);
 }
 
